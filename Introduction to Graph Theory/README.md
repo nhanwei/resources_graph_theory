@@ -1,6 +1,7 @@
 Some resources from the course:
 
-Introduction to Graph Theory
+Graph Analytics for Big Data
 
-by University of California San Diego & National Research University Higher School of Economics
+by University of California San Diego
 
+https://www.coursera.org/learn/big-data-graph-analytics/home/welcome
